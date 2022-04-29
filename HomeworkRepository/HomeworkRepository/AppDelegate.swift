@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  HomeworkRepository
-//
-//  Created by t h a . m a m e rozz on 29.04.2022.
-//
-
 import UIKit
 
 @main
